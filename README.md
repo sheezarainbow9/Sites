@@ -1,4 +1,4 @@
 # Sites
-Projetos de construção de sites com finalidade de estudos.
+Projeto de construção de site com finalidade de estudos.
 
-Os canais utilizados como exemplo estão indicados nos projetos.
+UJtilizamos o canal do CursoemVídeo como base.
